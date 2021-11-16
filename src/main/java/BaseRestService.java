@@ -8,7 +8,7 @@ import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
 
-public class BaseRestService {
+public abstract class BaseRestService {
 
     //private final Logger logger = LoggerFactory.getLogger(BaseRestService.class);
 
